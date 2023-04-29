@@ -4,6 +4,11 @@
 
 Welcome to my GitHub profile! I'm a master's candidate in robotics at New York University and a mapping and localization engineer at Nokia Bell Labs. With a focus on 3D computer vision, structure from motion pipeline, feature matching, point cloud registration, and machine learning, I'm passionate about developing cutting-edge technologies that enable robots to operate in challenging environments. My proficiency in Python, C++, and MATLAB has allowed me to contribute to a variety of projects in the robotics industry. I'm always looking for new opportunities to apply my skills and collaborate with others in this exciting field. Please check my portfolio [https://fsa4859.github.io/](url)
 
+### Summary
+1. I am currently working as mapping and localization enginner at Nokia Bell Labs solving some of the most challenging problems in the computer vision domain.
+2. I am working as a computer vision graduate researcher at AI4CE lab at NYU where my research focuses on building an inlier classification for low overlapping lidar point clouds. Selecting inliers points is a critical step to ensure the registeration process is accurate for low overlapping scans. 
+
+
 <!--
 **fsa4859/fsa4859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
